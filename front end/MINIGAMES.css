@@ -1,0 +1,38 @@
+#TopBar {
+    background-color: white;
+    border-bottom: black 1px solid;
+    width : 890px;
+    padding-left: 450px;
+    position: fixed;
+    margin-top: -8px;
+}
+
+#img {
+   width: 400px;
+}
+
+.button {
+    padding-left: 50px;
+    padding-top: 10px;
+    font-family: cursive;
+    font-size: 25px;
+}
+
+#LeftContainer{
+    position: fixed;
+    margin-top: 89px;
+    float: left;
+    background-color: #a1e9ed;
+    width : 200px;
+    height : 1000px;
+    border-right : black 1px solid;
+    margin-left: -8px;
+}
+#GCR1 {
+    padding-left: 200px;
+    padding-top: 120px;
+}
+#square {
+    width : 220px;
+    padding-bottom: 20px;
+}
